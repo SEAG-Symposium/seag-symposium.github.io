@@ -1,4 +1,4 @@
-# 东南代数几何研讨班
+# 东南代数几何研讨班 (I)
 
 [**原始会议链接**](https://math.sustech.edu.cn/conference/11896.html?lang=zh)
 
