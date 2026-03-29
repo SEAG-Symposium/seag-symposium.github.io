@@ -1,5 +1,5 @@
 # 东南代数几何研讨会 
-# Southeastern Algebraic Geometry Symposium
+# China Southeastern Algebraic Geometry Symposium
 
 Welcome to the website of the **Southeastern Algebraic Geometry Symposium**.
 
