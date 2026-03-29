@@ -25,4 +25,4 @@
 - 李展
 - 李彤彤（秘书）
 
-- ![Group Photo](photo4.jpg)
+- ![Group Photo](photo4.jpeg)
