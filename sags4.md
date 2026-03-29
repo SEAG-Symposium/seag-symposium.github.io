@@ -1,5 +1,7 @@
 # 东南代数几何研讨会 (IV) April 4 - 9, 2023
 
+[**原始会议链接**](https://math.sustech.edu.cn/conference/12615.html?lang=zh)
+
 ## 会议内容
 
 ### a)
