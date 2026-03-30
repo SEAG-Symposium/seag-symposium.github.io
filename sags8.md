@@ -34,4 +34,4 @@
 - Zheng Zhang (ShanghaiTech University)
 - Chuyu Zhou (Xiamen University)
 
-- ![Group Photo](photo8.jpg)
+  ![Group Photo](photo8.jpg)
