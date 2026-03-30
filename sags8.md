@@ -1,5 +1,7 @@
 # Southeastern Algebraic Geometry Symposium (VIII)
 
+[Home](index.md)
+
 [**The original website**](https://math.sustech.edu.cn/conference/13283.html)
 
 **Time:** June 9 (Monday)--June 13 (Friday), 2025
