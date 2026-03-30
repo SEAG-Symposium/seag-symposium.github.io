@@ -1,5 +1,7 @@
 # Past Conferences
 
+[Home](index.md)
+
 ## [Southeastern Algebraic Geometry Symposium (I)](sags1.md) (SUSTech, November 13 - 15, 2020)
 ## [Southeastern Algebraic Geometry Symposium (II)](sags2.md)
 ## [Southeastern Algebraic Geometry Symposium (III)](sags3.md)
