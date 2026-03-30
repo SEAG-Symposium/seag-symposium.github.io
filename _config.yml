@@ -1,6 +1,5 @@
 theme: minima
 title: ""
 header_pages:
-  - index.md
   - upcoming.md
   - past.md
