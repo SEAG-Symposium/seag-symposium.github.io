@@ -10,4 +10,4 @@
 ## [Southeastern Algebraic Geometry Symposium (VI)](sags6.md)
 ## [Southeastern Algebraic Geometry Symposium (VII)](sags7.md)
 ## [Southeastern Algebraic Geometry Symposium (VIII)](sags8.md) (SUSTech, June 9 - 13, 2025)
-## [Southeastern Algebraic Geometry Symposium (IX)](sags9.md)
+## [Southeastern Algebraic Geometry Symposium (IX)](sags9.md) (SZU, November 14 - 16, 2025)
