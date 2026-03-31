@@ -4,4 +4,4 @@
 
 [**原始会议链接**](https://tianyuan.xmu.edu.cn/cn/Workshop/3411.html)
 
-![Poster](Sags6.jpg)
+![Poster](Seag6.jpg)
