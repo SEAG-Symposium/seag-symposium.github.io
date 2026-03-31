@@ -2,7 +2,7 @@
 
 [Home](index.md)
 
-“东南代数几何研讨班 III”
+[**原始会议链接**](https://tianyuan.xmu.edu.cn/cn/Workshop/992.html)
 
 **时间：** 2022-11-26 09:00 -- 2022-11-27 17:00
 
